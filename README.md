@@ -12,10 +12,10 @@ Here are some ideas to get you started: -->
  <br/>
 
 ## 👨🏻‍💻 About Me:
-
+<!--
 <img  src="./thoughtworks-gif_dribbble.png" height="183px" align="right" />
 
-<!-- - 🙋‍♂️ All about me is at **[My Website](https://soumya-jit.tech/)**
+ - 🙋‍♂️ All about me is at **[My Website](https://soumya-jit.tech/)**
 -->
 
 - 🔭 I’m currently working on `Some Solidity Projects`.
